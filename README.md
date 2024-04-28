@@ -1,5 +1,10 @@
 # Program-ZGLab
-#Import one file from a local folder 
-#Apply thresholding to segment object (here nuclei)
+# Usefull programs' stockage-hub
+
+#Cell Counting/Classification of Phenotype [Jupyter/Python/ImageJ] (Pauline/Chems)
+
+#Nuclea Segmentation [Jupyter/Python/Napari-env] (Zoher)
+
+#Treanable Weka classification using Automatized Macro [Java/ImageJ] (Emma)
 
 
