@@ -6,7 +6,7 @@
 
 
 #Nuclea Segmentation [Jupyter/Python/Napari-env]  (Zoher)
-    --> State : Just Beginning
+    --> State : In progress 
 
 #Nuclea Segmentation [Jupyter/Python/Napari-env] (Zoher)
 
